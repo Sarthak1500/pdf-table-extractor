@@ -2,6 +2,9 @@
 
 A lightweight Python tool to extract tabular data from system-generated PDFs and save them into an Excel file — **without using Tabula or Camelot**.
 
+**🔗 GitHub Repository**: [https://github.com/Sarthak1500/pdf-table-extractor.git](https://github.com/Sarthak1500/pdf-table-extractor.git)
+
+
 ## 🚀 Features
 
 - Extracts tables from **any system-generated PDF** (not scanned)
