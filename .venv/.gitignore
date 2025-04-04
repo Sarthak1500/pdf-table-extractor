@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment folders
+.venv/
+venv/
+env/
+
+# Editor directories and settings (PyCharm, VSCode)
+.vscode/
+.idea/
+
+# Output files
+*.xlsx
+*.xls
+
+# Log files and system files
+*.log
+.DS_Store
