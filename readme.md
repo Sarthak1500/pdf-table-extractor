@@ -4,6 +4,13 @@ A lightweight Python tool to extract tabular data from system-generated PDFs and
 
 **🔗 GitHub Repository**: [https://github.com/Sarthak1500/pdf-table-extractor.git](https://github.com/Sarthak1500/pdf-table-extractor.git)
 
+**🔗 DEMO VIDEO**: [https://github.com/Sarthak1500/pdf-table-extractor.git](https://github.com/Sarthak1500/pdf-table-extractor.git)
+
+**🔗 INPUT FILE(PDF)**: [https://github.com/Sarthak1500/pdf-table-extractor.git](https://github.com/Sarthak1500/pdf-table-extractor.git)
+
+**🔗 OUTPUT EXCEL FILE**: [https://github.com/Sarthak1500/pdf-table-extractor.git](https://github.com/Sarthak1500/pdf-table-extractor.git)
+
+
 
 ## 🚀 Features
 

@@ -1,6 +1,12 @@
 # 📝 Hackathon Report: PDF Table Extractor
 **🔗 GitHub Repository**: [https://github.com/Sarthak1500/pdf-table-extractor.git](https://github.com/Sarthak1500/pdf-table-extractor.git)
 
+**🔗 DEMO VIDEO**: [https://github.com/Sarthak1500/pdf-table-extractor.git](https://github.com/Sarthak1500/pdf-table-extractor.git)
+
+**🔗 INPUT FILE(PDF)**: [https://github.com/Sarthak1500/pdf-table-extractor.git](https://github.com/Sarthak1500/pdf-table-extractor.git)
+
+**🔗 OUTPUT EXCEL FILE**: [https://github.com/Sarthak1500/pdf-table-extractor.git](https://github.com/Sarthak1500/pdf-table-extractor.git)
+
 
 ## 📌 Problem Statement
 
